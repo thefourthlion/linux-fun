@@ -16,6 +16,7 @@ apt_packages=(
     gimp
     obs-studio
     inkscape
+    timeshift
     net-tools
     ca-certificates 
     docker-ce 
